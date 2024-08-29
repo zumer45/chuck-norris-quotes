@@ -1,1 +1,1 @@
-# chuck-norris-quotes
+# Chuck Norris Quotes
